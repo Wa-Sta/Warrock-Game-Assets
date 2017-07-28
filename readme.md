@@ -7,5 +7,5 @@ Generates automatically cascading style sheets to use.
 Weapon:
 1. Include ../css/weapon.min.css
 2. Apply class "warrock_weapon-db01" to item
-3. Strucutre is warrock_weapon-[itemcode]
+3. Structure is warrock_weapon-[itemcode]
 
