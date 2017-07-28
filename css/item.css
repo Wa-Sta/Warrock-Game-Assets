@@ -1,0 +1,4173 @@
+.warrock_item-cash_ca01
+			{
+				background-image: url('../img/etcitem00.png');
+				background-position: 512px 512px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cb03
+			{
+				background-image: url('../img/etcitem00.png');
+				background-position: 272px 312px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cc01
+			{
+				background-image: url('../img/etcitem00.png');
+				background-position: 512px 112px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cc06
+			{
+				background-image: url('../img/etcitem00.png');
+				background-position: 272px 112px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cc07
+			{
+				background-image: url('../img/etcitem00.png');
+				background-position: 512px 212px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cc08
+			{
+				background-image: url('../img/etcitem00.png');
+				background-position: 272px 212px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cd01
+			{
+				background-image: url('../img/etcitem00.png');
+				background-position: 272px 412px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cd02
+			{
+				background-image: url('../img/etcitem00.png');
+				background-position: 512px 312px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_ce01
+			{
+				background-image: url('../img/etcitem00.png');
+				background-position: 512px 412px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_ce02
+			{
+				background-image: url('../img/etcitem00.png');
+				background-position: 272px 512px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cb01
+			{
+				background-image: url('../img/etcitem01.png');
+				background-position: 512px 512px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cc02
+			{
+				background-image: url('../img/etcitem01.png');
+				background-position: 272px 512px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_ch01
+			{
+				background-image: url('../img/etcitem01.png');
+				background-position: 272px 212px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cj01
+			{
+				background-image: url('../img/etcitem01.png');
+				background-position: 512px 112px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cj02
+			{
+				background-image: url('../img/etcitem01.png');
+				background-position: 272px 112px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_ds01
+			{
+				background-image: url('../img/etcitem01.png');
+				background-position: 512px 412px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_ds05
+			{
+				background-image: url('../img/etcitem01.png');
+				background-position: 512px 212px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_du01
+			{
+				background-image: url('../img/etcitem01.png');
+				background-position: 512px 312px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_du02
+			{
+				background-image: url('../img/etcitem01.png');
+				background-position: 272px 312px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_dv01
+			{
+				background-image: url('../img/etcitem01.png');
+				background-position: 272px 412px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cf01
+			{
+				background-image: url('../img/etcitem02.png');
+				background-position: 512px 412px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cf02
+			{
+				background-image: url('../img/etcitem02.png');
+				background-position: 272px 412px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cg01
+			{
+				background-image: url('../img/etcitem02.png');
+				background-position: 272px 512px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cg02
+			{
+				background-image: url('../img/etcitem02.png');
+				background-position: 512px 512px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cz63
+			{
+				background-image: url('../img/etcitem02.png');
+				background-position: 272px 312px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cz65
+			{
+				background-image: url('../img/etcitem02.png');
+				background-position: 512px 312px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cc09
+			{
+				background-image: url('../img/etcitem03.png');
+				background-position: 512px 512px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_ck01
+			{
+				background-image: url('../img/etcitem03.png');
+				background-position: 512px 112px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_d101
+			{
+				background-image: url('../img/etcitem03.png');
+				background-position: 512px 212px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_ds03
+			{
+				background-image: url('../img/etcitem03.png');
+				background-position: 272px 212px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_ds10
+			{
+				background-image: url('../img/etcitem03.png');
+				background-position: 272px 112px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_dz01
+			{
+				background-image: url('../img/etcitem03.png');
+				background-position: 272px 312px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cc05
+			{
+				background-image: url('../img/etcitem04.png');
+				background-position: 272px 112px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_ce03
+			{
+				background-image: url('../img/etcitem04.png');
+				background-position: 512px 412px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_ct01
+			{
+				background-image: url('../img/etcitem04.png');
+				background-position: 272px 312px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_ct02
+			{
+				background-image: url('../img/etcitem04.png');
+				background-position: 512px 212px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cz01
+			{
+				background-image: url('../img/etcitem04.png');
+				background-position: 272px 412px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cz02
+			{
+				background-image: url('../img/etcitem04.png');
+				background-position: 512px 312px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_dq02
+			{
+				background-image: url('../img/etcitem04.png');
+				background-position: 512px 512px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_ca04
+			{
+				background-image: url('../img/etcitem05.png');
+				background-position: 272px 312px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cc31
+			{
+				background-image: url('../img/etcitem05.png');
+				background-position: 512px 212px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cc35
+			{
+				background-image: url('../img/etcitem05.png');
+				background-position: 272px 212px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cc40
+			{
+				background-image: url('../img/etcitem05.png');
+				background-position: 272px 112px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cc51
+			{
+				background-image: url('../img/etcitem05.png');
+				background-position: 512px 112px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cz07
+			{
+				background-image: url('../img/etcitem05.png');
+				background-position: 512px 312px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cc26
+			{
+				background-image: url('../img/etcitem06.png');
+				background-position: 272px 212px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cc27
+			{
+				background-image: url('../img/etcitem06.png');
+				background-position: 272px 112px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cc41
+			{
+				background-image: url('../img/etcitem06.png');
+				background-position: 272px 512px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cc42
+			{
+				background-image: url('../img/etcitem06.png');
+				background-position: 272px 412px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cc43
+			{
+				background-image: url('../img/etcitem06.png');
+				background-position: 272px 312px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cc44
+			{
+				background-image: url('../img/etcitem06.png');
+				background-position: 512px 412px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cc45
+			{
+				background-image: url('../img/etcitem06.png');
+				background-position: 512px 312px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cc46
+			{
+				background-image: url('../img/etcitem06.png');
+				background-position: 512px 212px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cc48
+			{
+				background-image: url('../img/etcitem06.png');
+				background-position: 512px 112px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_ci01
+			{
+				background-image: url('../img/etcitem06.png');
+				background-position: 512px 512px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cc10
+			{
+				background-image: url('../img/etcitem07.png');
+				background-position: 272px 212px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cc11
+			{
+				background-image: url('../img/etcitem07.png');
+				background-position: 512px 112px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cc12
+			{
+				background-image: url('../img/etcitem07.png');
+				background-position: 272px 112px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cc28
+			{
+				background-image: url('../img/etcitem07.png');
+				background-position: 512px 512px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cc29
+			{
+				background-image: url('../img/etcitem07.png');
+				background-position: 272px 512px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cc30
+			{
+				background-image: url('../img/etcitem07.png');
+				background-position: 512px 412px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cc52
+			{
+				background-image: url('../img/etcitem07.png');
+				background-position: 272px 312px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cc53
+			{
+				background-image: url('../img/etcitem07.png');
+				background-position: 272px 412px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cc54
+			{
+				background-image: url('../img/etcitem07.png');
+				background-position: 512px 312px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cc55
+			{
+				background-image: url('../img/etcitem07.png');
+				background-position: 512px 212px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cc13
+			{
+				background-image: url('../img/etcitem08.png');
+				background-position: 512px 512px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cc15
+			{
+				background-image: url('../img/etcitem08.png');
+				background-position: 272px 512px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cc16
+			{
+				background-image: url('../img/etcitem08.png');
+				background-position: 512px 412px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cc18
+			{
+				background-image: url('../img/etcitem08.png');
+				background-position: 272px 312px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cc19
+			{
+				background-image: url('../img/etcitem08.png');
+				background-position: 512px 212px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cc21
+			{
+				background-image: url('../img/etcitem08.png');
+				background-position: 272px 112px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cc56
+			{
+				background-image: url('../img/etcitem08.png');
+				background-position: 512px 312px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cc57
+			{
+				background-image: url('../img/etcitem08.png');
+				background-position: 272px 412px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cc58
+			{
+				background-image: url('../img/etcitem08.png');
+				background-position: 272px 212px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cc59
+			{
+				background-image: url('../img/etcitem08.png');
+				background-position: 512px 112px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cb53
+			{
+				background-image: url('../img/etcitem09.png');
+				background-position: 512px 412px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cc14
+			{
+				background-image: url('../img/etcitem09.png');
+				background-position: 272px 312px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cc17
+			{
+				background-image: url('../img/etcitem09.png');
+				background-position: 272px 212px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cc20
+			{
+				background-image: url('../img/etcitem09.png');
+				background-position: 512px 212px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cc22
+			{
+				background-image: url('../img/etcitem09.png');
+				background-position: 512px 512px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cc23
+			{
+				background-image: url('../img/etcitem09.png');
+				background-position: 272px 512px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cc36
+			{
+				background-image: url('../img/etcitem09.png');
+				background-position: 272px 412px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cc37
+			{
+				background-image: url('../img/etcitem09.png');
+				background-position: 512px 312px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cc49
+			{
+				background-image: url('../img/etcitem09.png');
+				background-position: 512px 112px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cc50
+			{
+				background-image: url('../img/etcitem09.png');
+				background-position: 272px 112px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cb02
+			{
+				background-image: url('../img/etcitem10.png');
+				background-position: 272px 412px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cb27
+			{
+				background-image: url('../img/etcitem10.png');
+				background-position: 272px 312px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cb54
+			{
+				background-image: url('../img/etcitem10.png');
+				background-position: 512px 312px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cb60
+			{
+				background-image: url('../img/etcitem10.png');
+				background-position: 512px 512px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cc38
+			{
+				background-image: url('../img/etcitem10.png');
+				background-position: 272px 112px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_ch03
+			{
+				background-image: url('../img/etcitem10.png');
+				background-position: 272px 512px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_ch04
+			{
+				background-image: url('../img/etcitem10.png');
+				background-position: 512px 412px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cm03
+			{
+				background-image: url('../img/etcitem10.png');
+				background-position: 512px 212px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cz43
+			{
+				background-image: url('../img/etcitem10.png');
+				background-position: 272px 212px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cz44
+			{
+				background-image: url('../img/etcitem10.png');
+				background-position: 512px 112px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-ba17_sel
+			{
+				background-image: url('../img/etcitem11.png');
+				background-position: 512px 112px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-ba18_sel
+			{
+				background-image: url('../img/etcitem11.png');
+				background-position: 272px 112px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-bs0e_sel
+			{
+				background-image: url('../img/etcitem11.png');
+				background-position: 512px 312px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cb08
+			{
+				background-image: url('../img/etcitem11.png');
+				background-position: 512px 512px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cb09
+			{
+				background-image: url('../img/etcitem11.png');
+				background-position: 512px 412px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cb99
+			{
+				background-image: url('../img/etcitem11.png');
+				background-position: 512px 212px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cm04
+			{
+				background-image: url('../img/etcitem11.png');
+				background-position: 272px 412px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cz04
+			{
+				background-image: url('../img/etcitem11.png');
+				background-position: 272px 512px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cz05
+			{
+				background-image: url('../img/etcitem11.png');
+				background-position: 272px 312px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cz99
+			{
+				background-image: url('../img/etcitem11.png');
+				background-position: 272px 212px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cc63
+			{
+				background-image: url('../img/etcitem12.png');
+				background-position: 512px 312px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cc64
+			{
+				background-image: url('../img/etcitem12.png');
+				background-position: 272px 312px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cc65
+			{
+				background-image: url('../img/etcitem12.png');
+				background-position: 512px 212px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cc66
+			{
+				background-image: url('../img/etcitem12.png');
+				background-position: 272px 212px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cc67
+			{
+				background-image: url('../img/etcitem12.png');
+				background-position: 512px 112px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cc68
+			{
+				background-image: url('../img/etcitem12.png');
+				background-position: 272px 112px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cz95
+			{
+				background-image: url('../img/etcitem12.png');
+				background-position: 272px 412px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cz96
+			{
+				background-image: url('../img/etcitem12.png');
+				background-position: 512px 412px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cz97
+			{
+				background-image: url('../img/etcitem12.png');
+				background-position: 272px 512px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cz98
+			{
+				background-image: url('../img/etcitem12.png');
+				background-position: 512px 512px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cc69
+			{
+				background-image: url('../img/etcitem13.png');
+				background-position: 512px 512px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cc70
+			{
+				background-image: url('../img/etcitem13.png');
+				background-position: 272px 512px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cc71
+			{
+				background-image: url('../img/etcitem13.png');
+				background-position: 512px 412px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cz87
+			{
+				background-image: url('../img/etcitem13.png');
+				background-position: 512px 112px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cz90
+			{
+				background-image: url('../img/etcitem13.png');
+				background-position: 272px 212px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cz91
+			{
+				background-image: url('../img/etcitem13.png');
+				background-position: 512px 212px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cz92
+			{
+				background-image: url('../img/etcitem13.png');
+				background-position: 272px 412px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cz93
+			{
+				background-image: url('../img/etcitem13.png');
+				background-position: 512px 312px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cz94
+			{
+				background-image: url('../img/etcitem13.png');
+				background-position: 272px 312px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_dn03
+			{
+				background-image: url('../img/etcitem13.png');
+				background-position: 272px 112px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_ch02
+			{
+				background-image: url('../img/etcitem14.png');
+				background-position: 512px 512px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cz80
+			{
+				background-image: url('../img/etcitem14.png');
+				background-position: 272px 112px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cz81
+			{
+				background-image: url('../img/etcitem14.png');
+				background-position: 512px 112px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cz82
+			{
+				background-image: url('../img/etcitem14.png');
+				background-position: 272px 212px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cz83
+			{
+				background-image: url('../img/etcitem14.png');
+				background-position: 512px 212px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cz84
+			{
+				background-image: url('../img/etcitem14.png');
+				background-position: 272px 312px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cz85
+			{
+				background-image: url('../img/etcitem14.png');
+				background-position: 512px 312px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cz86
+			{
+				background-image: url('../img/etcitem14.png');
+				background-position: 272px 412px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cz88
+			{
+				background-image: url('../img/etcitem14.png');
+				background-position: 512px 412px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cz89
+			{
+				background-image: url('../img/etcitem14.png');
+				background-position: 272px 512px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cz70
+			{
+				background-image: url('../img/etcitem15.png');
+				background-position: 272px 112px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cz71
+			{
+				background-image: url('../img/etcitem15.png');
+				background-position: 512px 212px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cz72
+			{
+				background-image: url('../img/etcitem15.png');
+				background-position: 512px 112px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cz73
+			{
+				background-image: url('../img/etcitem15.png');
+				background-position: 272px 312px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cz74
+			{
+				background-image: url('../img/etcitem15.png');
+				background-position: 272px 212px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cz75
+			{
+				background-image: url('../img/etcitem15.png');
+				background-position: 512px 312px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cz76
+			{
+				background-image: url('../img/etcitem15.png');
+				background-position: 272px 412px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cz77
+			{
+				background-image: url('../img/etcitem15.png');
+				background-position: 512px 412px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cz78
+			{
+				background-image: url('../img/etcitem15.png');
+				background-position: 272px 512px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cz79
+			{
+				background-image: url('../img/etcitem15.png');
+				background-position: 512px 512px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cz58
+			{
+				background-image: url('../img/etcitem16.png');
+				background-position: 272px 112px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cz59
+			{
+				background-image: url('../img/etcitem16.png');
+				background-position: 512px 112px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cz60
+			{
+				background-image: url('../img/etcitem16.png');
+				background-position: 272px 212px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cz61
+			{
+				background-image: url('../img/etcitem16.png');
+				background-position: 272px 312px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cz62
+			{
+				background-image: url('../img/etcitem16.png');
+				background-position: 512px 212px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cz64
+			{
+				background-image: url('../img/etcitem16.png');
+				background-position: 512px 312px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cz66
+			{
+				background-image: url('../img/etcitem16.png');
+				background-position: 272px 412px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cz67
+			{
+				background-image: url('../img/etcitem16.png');
+				background-position: 512px 412px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cz68
+			{
+				background-image: url('../img/etcitem16.png');
+				background-position: 272px 512px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cz69
+			{
+				background-image: url('../img/etcitem16.png');
+				background-position: 512px 512px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cz48
+			{
+				background-image: url('../img/etcitem17.png');
+				background-position: 512px 112px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cz49
+			{
+				background-image: url('../img/etcitem17.png');
+				background-position: 272px 112px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cz50
+			{
+				background-image: url('../img/etcitem17.png');
+				background-position: 272px 212px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cz51
+			{
+				background-image: url('../img/etcitem17.png');
+				background-position: 512px 212px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cz52
+			{
+				background-image: url('../img/etcitem17.png');
+				background-position: 272px 312px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cz53
+			{
+				background-image: url('../img/etcitem17.png');
+				background-position: 512px 312px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cz54
+			{
+				background-image: url('../img/etcitem17.png');
+				background-position: 272px 412px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cz55
+			{
+				background-image: url('../img/etcitem17.png');
+				background-position: 512px 412px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cz56
+			{
+				background-image: url('../img/etcitem17.png');
+				background-position: 272px 512px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cz57
+			{
+				background-image: url('../img/etcitem17.png');
+				background-position: 512px 512px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cy01
+			{
+				background-image: url('../img/etcitem18.png');
+				background-position: 512px 512px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cy02
+			{
+				background-image: url('../img/etcitem18.png');
+				background-position: 272px 512px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cy03
+			{
+				background-image: url('../img/etcitem18.png');
+				background-position: 512px 412px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cy04
+			{
+				background-image: url('../img/etcitem18.png');
+				background-position: 272px 412px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cy05
+			{
+				background-image: url('../img/etcitem18.png');
+				background-position: 512px 312px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cy06
+			{
+				background-image: url('../img/etcitem18.png');
+				background-position: 272px 312px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cy07
+			{
+				background-image: url('../img/etcitem18.png');
+				background-position: 512px 212px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cy08
+			{
+				background-image: url('../img/etcitem18.png');
+				background-position: 272px 212px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cy09
+			{
+				background-image: url('../img/etcitem18.png');
+				background-position: 512px 112px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cy10
+			{
+				background-image: url('../img/etcitem18.png');
+				background-position: 272px 112px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cy11
+			{
+				background-image: url('../img/etcitem19.png');
+				background-position: 512px 512px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cy12
+			{
+				background-image: url('../img/etcitem19.png');
+				background-position: 272px 512px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cy13
+			{
+				background-image: url('../img/etcitem19.png');
+				background-position: 512px 412px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cy14
+			{
+				background-image: url('../img/etcitem19.png');
+				background-position: 272px 412px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cy15
+			{
+				background-image: url('../img/etcitem19.png');
+				background-position: 512px 312px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cy16
+			{
+				background-image: url('../img/etcitem19.png');
+				background-position: 272px 312px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cy17
+			{
+				background-image: url('../img/etcitem19.png');
+				background-position: 512px 212px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cy18
+			{
+				background-image: url('../img/etcitem19.png');
+				background-position: 272px 212px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cy19
+			{
+				background-image: url('../img/etcitem19.png');
+				background-position: 512px 112px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cy20
+			{
+				background-image: url('../img/etcitem19.png');
+				background-position: 272px 112px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cp01
+			{
+				background-image: url('../img/etcitem20.png');
+				background-position: 272px 212px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cp02
+			{
+				background-image: url('../img/etcitem20.png');
+				background-position: 512px 112px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cp03
+			{
+				background-image: url('../img/etcitem20.png');
+				background-position: 272px 112px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cy21
+			{
+				background-image: url('../img/etcitem20.png');
+				background-position: 512px 512px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cy22
+			{
+				background-image: url('../img/etcitem20.png');
+				background-position: 272px 512px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cy23
+			{
+				background-image: url('../img/etcitem20.png');
+				background-position: 512px 412px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cy24
+			{
+				background-image: url('../img/etcitem20.png');
+				background-position: 272px 412px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cy25
+			{
+				background-image: url('../img/etcitem20.png');
+				background-position: 512px 312px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cy26
+			{
+				background-image: url('../img/etcitem20.png');
+				background-position: 272px 312px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cy27
+			{
+				background-image: url('../img/etcitem20.png');
+				background-position: 512px 212px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cp04
+			{
+				background-image: url('../img/etcitem21.png');
+				background-position: 512px 512px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cp05
+			{
+				background-image: url('../img/etcitem21.png');
+				background-position: 272px 512px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cp06
+			{
+				background-image: url('../img/etcitem21.png');
+				background-position: 512px 412px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cp07
+			{
+				background-image: url('../img/etcitem21.png');
+				background-position: 512px 212px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cp08
+			{
+				background-image: url('../img/etcitem21.png');
+				background-position: 272px 212px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cp09
+			{
+				background-image: url('../img/etcitem21.png');
+				background-position: 512px 112px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cp10
+			{
+				background-image: url('../img/etcitem21.png');
+				background-position: 272px 112px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cr01
+			{
+				background-image: url('../img/etcitem21.png');
+				background-position: 272px 412px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cr02
+			{
+				background-image: url('../img/etcitem21.png');
+				background-position: 512px 312px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cr03
+			{
+				background-image: url('../img/etcitem21.png');
+				background-position: 272px 312px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cp11
+			{
+				background-image: url('../img/etcitem22.png');
+				background-position: 512px 512px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cp12
+			{
+				background-image: url('../img/etcitem22.png');
+				background-position: 272px 512px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cp13
+			{
+				background-image: url('../img/etcitem22.png');
+				background-position: 512px 412px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cp14
+			{
+				background-image: url('../img/etcitem22.png');
+				background-position: 272px 412px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cp15
+			{
+				background-image: url('../img/etcitem22.png');
+				background-position: 512px 312px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cp16
+			{
+				background-image: url('../img/etcitem22.png');
+				background-position: 272px 312px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cp17
+			{
+				background-image: url('../img/etcitem22.png');
+				background-position: 512px 212px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cp18
+			{
+				background-image: url('../img/etcitem22.png');
+				background-position: 272px 212px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cp19
+			{
+				background-image: url('../img/etcitem22.png');
+				background-position: 272px 112px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cr04
+			{
+				background-image: url('../img/etcitem22.png');
+				background-position: 512px 112px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cc72
+			{
+				background-image: url('../img/etcitem23.png');
+				background-position: 512px 112px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cc73
+			{
+				background-image: url('../img/etcitem23.png');
+				background-position: 272px 112px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cm05
+			{
+				background-image: url('../img/etcitem23.png');
+				background-position: 272px 512px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cm06
+			{
+				background-image: url('../img/etcitem23.png');
+				background-position: 512px 412px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cm07
+			{
+				background-image: url('../img/etcitem23.png');
+				background-position: 272px 412px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cm08
+			{
+				background-image: url('../img/etcitem23.png');
+				background-position: 512px 312px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cm09
+			{
+				background-image: url('../img/etcitem23.png');
+				background-position: 272px 312px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cm10
+			{
+				background-image: url('../img/etcitem23.png');
+				background-position: 512px 212px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cp20
+			{
+				background-image: url('../img/etcitem23.png');
+				background-position: 512px 512px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cr05
+			{
+				background-image: url('../img/etcitem23.png');
+				background-position: 272px 212px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cc74
+			{
+				background-image: url('../img/etcitem24.png');
+				background-position: 512px 512px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cc75
+			{
+				background-image: url('../img/etcitem24.png');
+				background-position: 272px 512px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cd03
+			{
+				background-image: url('../img/etcitem24.png');
+				background-position: 512px 312px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cd04
+			{
+				background-image: url('../img/etcitem24.png');
+				background-position: 272px 312px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_ck02
+			{
+				background-image: url('../img/etcitem24.png');
+				background-position: 272px 112px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cp21
+			{
+				background-image: url('../img/etcitem24.png');
+				background-position: 272px 412px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cp22
+			{
+				background-image: url('../img/etcitem24.png');
+				background-position: 512px 212px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cp23
+			{
+				background-image: url('../img/etcitem24.png');
+				background-position: 272px 212px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cp24
+			{
+				background-image: url('../img/etcitem24.png');
+				background-position: 512px 112px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cr08
+			{
+				background-image: url('../img/etcitem24.png');
+				background-position: 512px 412px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cp25
+			{
+				background-image: url('../img/etcitem25.png');
+				background-position: 512px 412px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cp26
+			{
+				background-image: url('../img/etcitem25.png');
+				background-position: 272px 512px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cp27
+			{
+				background-image: url('../img/etcitem25.png');
+				background-position: 272px 412px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cp28
+			{
+				background-image: url('../img/etcitem25.png');
+				background-position: 512px 112px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cp29
+			{
+				background-image: url('../img/etcitem25.png');
+				background-position: 272px 112px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cr09
+			{
+				background-image: url('../img/etcitem25.png');
+				background-position: 512px 312px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cr10
+			{
+				background-image: url('../img/etcitem25.png');
+				background-position: 272px 312px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cr11
+			{
+				background-image: url('../img/etcitem25.png');
+				background-position: 512px 212px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cr12
+			{
+				background-image: url('../img/etcitem25.png');
+				background-position: 272px 212px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cr80
+			{
+				background-image: url('../img/etcitem25.png');
+				background-position: 512px 512px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cp30
+			{
+				background-image: url('../img/etcitem26.png');
+				background-position: 512px 512px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cp31
+			{
+				background-image: url('../img/etcitem26.png');
+				background-position: 272px 512px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cp32
+			{
+				background-image: url('../img/etcitem26.png');
+				background-position: 272px 212px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cp33
+			{
+				background-image: url('../img/etcitem26.png');
+				background-position: 512px 112px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cp34
+			{
+				background-image: url('../img/etcitem26.png');
+				background-position: 272px 112px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cr13
+			{
+				background-image: url('../img/etcitem26.png');
+				background-position: 272px 412px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cr14
+			{
+				background-image: url('../img/etcitem26.png');
+				background-position: 272px 312px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cr15
+			{
+				background-image: url('../img/etcitem26.png');
+				background-position: 512px 212px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cr81
+			{
+				background-image: url('../img/etcitem26.png');
+				background-position: 512px 412px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cz06
+			{
+				background-image: url('../img/etcitem26.png');
+				background-position: 512px 312px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cp35
+			{
+				background-image: url('../img/etcitem27.png');
+				background-position: 512px 512px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cp36
+			{
+				background-image: url('../img/etcitem27.png');
+				background-position: 272px 512px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cp37
+			{
+				background-image: url('../img/etcitem27.png');
+				background-position: 512px 412px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cp38
+			{
+				background-image: url('../img/etcitem27.png');
+				background-position: 272px 412px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cp39
+			{
+				background-image: url('../img/etcitem27.png');
+				background-position: 512px 312px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cp40
+			{
+				background-image: url('../img/etcitem27.png');
+				background-position: 272px 312px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cp41
+			{
+				background-image: url('../img/etcitem27.png');
+				background-position: 512px 212px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cp42
+			{
+				background-image: url('../img/etcitem27.png');
+				background-position: 272px 212px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cp43
+			{
+				background-image: url('../img/etcitem27.png');
+				background-position: 512px 112px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cp44
+			{
+				background-image: url('../img/etcitem27.png');
+				background-position: 272px 112px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cp45
+			{
+				background-image: url('../img/etcitem28.png');
+				background-position: 512px 512px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cp46
+			{
+				background-image: url('../img/etcitem28.png');
+				background-position: 272px 512px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cp47
+			{
+				background-image: url('../img/etcitem28.png');
+				background-position: 512px 312px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cp48
+			{
+				background-image: url('../img/etcitem28.png');
+				background-position: 272px 312px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cp49
+			{
+				background-image: url('../img/etcitem28.png');
+				background-position: 512px 212px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cp50
+			{
+				background-image: url('../img/etcitem28.png');
+				background-position: 272px 212px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cp51
+			{
+				background-image: url('../img/etcitem28.png');
+				background-position: 512px 112px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cp52
+			{
+				background-image: url('../img/etcitem28.png');
+				background-position: 272px 112px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cr16
+			{
+				background-image: url('../img/etcitem28.png');
+				background-position: 512px 412px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cr17
+			{
+				background-image: url('../img/etcitem28.png');
+				background-position: 272px 412px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cp53
+			{
+				background-image: url('../img/etcitem29.png');
+				background-position: 272px 112px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cr18
+			{
+				background-image: url('../img/etcitem29.png');
+				background-position: 512px 512px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cr19
+			{
+				background-image: url('../img/etcitem29.png');
+				background-position: 272px 512px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cr20
+			{
+				background-image: url('../img/etcitem29.png');
+				background-position: 512px 412px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cr21
+			{
+				background-image: url('../img/etcitem29.png');
+				background-position: 272px 412px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cr22
+			{
+				background-image: url('../img/etcitem29.png');
+				background-position: 272px 312px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cr23
+			{
+				background-image: url('../img/etcitem29.png');
+				background-position: 512px 312px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cr82
+			{
+				background-image: url('../img/etcitem29.png');
+				background-position: 512px 112px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cz08
+			{
+				background-image: url('../img/etcitem29.png');
+				background-position: 272px 212px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cz09
+			{
+				background-image: url('../img/etcitem29.png');
+				background-position: 512px 212px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cp54
+			{
+				background-image: url('../img/etcitem30.png');
+				background-position: 272px 412px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cp55
+			{
+				background-image: url('../img/etcitem30.png');
+				background-position: 272px 512px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cp56
+			{
+				background-image: url('../img/etcitem30.png');
+				background-position: 512px 412px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cp57
+			{
+				background-image: url('../img/etcitem30.png');
+				background-position: 512px 512px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cp58
+			{
+				background-image: url('../img/etcitem30.png');
+				background-position: 512px 312px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cp59
+			{
+				background-image: url('../img/etcitem30.png');
+				background-position: 272px 312px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cp60
+			{
+				background-image: url('../img/etcitem30.png');
+				background-position: 512px 112px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cp61
+			{
+				background-image: url('../img/etcitem30.png');
+				background-position: 272px 112px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cr24
+			{
+				background-image: url('../img/etcitem30.png');
+				background-position: 512px 212px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cr25
+			{
+				background-image: url('../img/etcitem30.png');
+				background-position: 272px 212px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cp62
+			{
+				background-image: url('../img/etcitem31.png');
+				background-position: 512px 512px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cp63
+			{
+				background-image: url('../img/etcitem31.png');
+				background-position: 272px 512px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cp64
+			{
+				background-image: url('../img/etcitem31.png');
+				background-position: 512px 412px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cp65
+			{
+				background-image: url('../img/etcitem31.png');
+				background-position: 512px 312px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cp66
+			{
+				background-image: url('../img/etcitem31.png');
+				background-position: 512px 112px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cp67
+			{
+				background-image: url('../img/etcitem31.png');
+				background-position: 512px 212px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cp68
+			{
+				background-image: url('../img/etcitem31.png');
+				background-position: 272px 312px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cp69
+			{
+				background-image: url('../img/etcitem31.png');
+				background-position: 272px 212px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cp72
+			{
+				background-image: url('../img/etcitem31.png');
+				background-position: 272px 112px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cr83
+			{
+				background-image: url('../img/etcitem31.png');
+				background-position: 272px 412px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cp70
+			{
+				background-image: url('../img/etcitem32.png');
+				background-position: 512px 412px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cp71
+			{
+				background-image: url('../img/etcitem32.png');
+				background-position: 272px 412px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cp73
+			{
+				background-image: url('../img/etcitem32.png');
+				background-position: 512px 512px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cp74
+			{
+				background-image: url('../img/etcitem32.png');
+				background-position: 272px 512px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cp75
+			{
+				background-image: url('../img/etcitem32.png');
+				background-position: 512px 312px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cp76
+			{
+				background-image: url('../img/etcitem32.png');
+				background-position: 272px 312px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cp77
+			{
+				background-image: url('../img/etcitem32.png');
+				background-position: 512px 212px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cp78
+			{
+				background-image: url('../img/etcitem32.png');
+				background-position: 272px 212px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cp79
+			{
+				background-image: url('../img/etcitem32.png');
+				background-position: 512px 112px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cp80
+			{
+				background-image: url('../img/etcitem32.png');
+				background-position: 272px 112px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cb90
+			{
+				background-image: url('../img/etcitem33.png');
+				background-position: 512px 512px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cb91
+			{
+				background-image: url('../img/etcitem33.png');
+				background-position: 272px 512px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cp81
+			{
+				background-image: url('../img/etcitem33.png');
+				background-position: 512px 312px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cp82
+			{
+				background-image: url('../img/etcitem33.png');
+				background-position: 272px 312px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cp83
+			{
+				background-image: url('../img/etcitem33.png');
+				background-position: 512px 212px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cp84
+			{
+				background-image: url('../img/etcitem33.png');
+				background-position: 272px 212px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cp85
+			{
+				background-image: url('../img/etcitem33.png');
+				background-position: 512px 412px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cp86
+			{
+				background-image: url('../img/etcitem33.png');
+				background-position: 272px 412px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cr26
+			{
+				background-image: url('../img/etcitem33.png');
+				background-position: 512px 112px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cr27
+			{
+				background-image: url('../img/etcitem33.png');
+				background-position: 272px 112px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cp87
+			{
+				background-image: url('../img/etcitem34.png');
+				background-position: 272px 512px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cp88
+			{
+				background-image: url('../img/etcitem34.png');
+				background-position: 512px 412px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cp89
+			{
+				background-image: url('../img/etcitem34.png');
+				background-position: 272px 412px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cp90
+			{
+				background-image: url('../img/etcitem34.png');
+				background-position: 512px 312px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cp91
+			{
+				background-image: url('../img/etcitem34.png');
+				background-position: 272px 312px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cp92
+			{
+				background-image: url('../img/etcitem34.png');
+				background-position: 512px 212px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cp93
+			{
+				background-image: url('../img/etcitem34.png');
+				background-position: 272px 112px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cr28
+			{
+				background-image: url('../img/etcitem34.png');
+				background-position: 512px 512px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cr29
+			{
+				background-image: url('../img/etcitem34.png');
+				background-position: 272px 212px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cr30
+			{
+				background-image: url('../img/etcitem34.png');
+				background-position: 512px 112px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cp94
+			{
+				background-image: url('../img/etcitem35.png');
+				background-position: 512px 512px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cp95
+			{
+				background-image: url('../img/etcitem35.png');
+				background-position: 272px 512px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cp96
+			{
+				background-image: url('../img/etcitem35.png');
+				background-position: 512px 412px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cp97
+			{
+				background-image: url('../img/etcitem35.png');
+				background-position: 272px 412px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cp98
+			{
+				background-image: url('../img/etcitem35.png');
+				background-position: 512px 312px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cp99
+			{
+				background-image: url('../img/etcitem35.png');
+				background-position: 272px 312px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cq01
+			{
+				background-image: url('../img/etcitem35.png');
+				background-position: 512px 212px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cq02
+			{
+				background-image: url('../img/etcitem35.png');
+				background-position: 512px 112px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cq03
+			{
+				background-image: url('../img/etcitem35.png');
+				background-position: 272px 112px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cr31
+			{
+				background-image: url('../img/etcitem35.png');
+				background-position: 272px 212px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cq04
+			{
+				background-image: url('../img/etcitem36.png');
+				background-position: 512px 212px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cq05
+			{
+				background-image: url('../img/etcitem36.png');
+				background-position: 272px 212px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cq06
+			{
+				background-image: url('../img/etcitem36.png');
+				background-position: 512px 112px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cq07
+			{
+				background-image: url('../img/etcitem36.png');
+				background-position: 272px 112px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cr32
+			{
+				background-image: url('../img/etcitem36.png');
+				background-position: 512px 512px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cr33
+			{
+				background-image: url('../img/etcitem36.png');
+				background-position: 272px 512px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cr34
+			{
+				background-image: url('../img/etcitem36.png');
+				background-position: 512px 412px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cr35
+			{
+				background-image: url('../img/etcitem36.png');
+				background-position: 272px 412px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cr36
+			{
+				background-image: url('../img/etcitem36.png');
+				background-position: 512px 312px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cr37
+			{
+				background-image: url('../img/etcitem36.png');
+				background-position: 272px 312px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cq08
+			{
+				background-image: url('../img/etcitem37.png');
+				background-position: 512px 512px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cq09
+			{
+				background-image: url('../img/etcitem37.png');
+				background-position: 272px 412px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cq10
+			{
+				background-image: url('../img/etcitem37.png');
+				background-position: 512px 312px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cq11
+			{
+				background-image: url('../img/etcitem37.png');
+				background-position: 272px 112px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cr38
+			{
+				background-image: url('../img/etcitem37.png');
+				background-position: 272px 512px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cr39
+			{
+				background-image: url('../img/etcitem37.png');
+				background-position: 512px 412px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cr40
+			{
+				background-image: url('../img/etcitem37.png');
+				background-position: 272px 312px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cr41
+			{
+				background-image: url('../img/etcitem37.png');
+				background-position: 512px 212px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cr42
+			{
+				background-image: url('../img/etcitem37.png');
+				background-position: 272px 212px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cr43
+			{
+				background-image: url('../img/etcitem37.png');
+				background-position: 512px 112px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cq12
+			{
+				background-image: url('../img/etcitem38.png');
+				background-position: 512px 512px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cq13
+			{
+				background-image: url('../img/etcitem38.png');
+				background-position: 272px 512px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cq14
+			{
+				background-image: url('../img/etcitem38.png');
+				background-position: 512px 412px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cq15
+			{
+				background-image: url('../img/etcitem38.png');
+				background-position: 272px 412px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cq16
+			{
+				background-image: url('../img/etcitem38.png');
+				background-position: 272px 312px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cq17
+			{
+				background-image: url('../img/etcitem38.png');
+				background-position: 512px 212px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cq18
+			{
+				background-image: url('../img/etcitem38.png');
+				background-position: 272px 212px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cq19
+			{
+				background-image: url('../img/etcitem38.png');
+				background-position: 272px 112px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cq21
+			{
+				background-image: url('../img/etcitem38.png');
+				background-position: 512px 112px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cr44
+			{
+				background-image: url('../img/etcitem38.png');
+				background-position: 512px 312px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cq20
+			{
+				background-image: url('../img/etcitem39.png');
+				background-position: 512px 512px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cq22
+			{
+				background-image: url('../img/etcitem39.png');
+				background-position: 272px 512px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cq23
+			{
+				background-image: url('../img/etcitem39.png');
+				background-position: 512px 412px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cq24
+			{
+				background-image: url('../img/etcitem39.png');
+				background-position: 272px 412px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cq25
+			{
+				background-image: url('../img/etcitem39.png');
+				background-position: 512px 312px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cq26
+			{
+				background-image: url('../img/etcitem39.png');
+				background-position: 512px 212px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cq27
+			{
+				background-image: url('../img/etcitem39.png');
+				background-position: 272px 212px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cq28
+			{
+				background-image: url('../img/etcitem39.png');
+				background-position: 512px 112px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cq29
+			{
+				background-image: url('../img/etcitem39.png');
+				background-position: 272px 112px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cr45
+			{
+				background-image: url('../img/etcitem39.png');
+				background-position: 272px 312px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cq30
+			{
+				background-image: url('../img/etcitem40.png');
+				background-position: 512px 512px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cq31
+			{
+				background-image: url('../img/etcitem40.png');
+				background-position: 272px 512px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cq32
+			{
+				background-image: url('../img/etcitem40.png');
+				background-position: 512px 412px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cq33
+			{
+				background-image: url('../img/etcitem40.png');
+				background-position: 512px 312px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cq34
+			{
+				background-image: url('../img/etcitem40.png');
+				background-position: 272px 312px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cq35
+			{
+				background-image: url('../img/etcitem40.png');
+				background-position: 512px 212px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cq36
+			{
+				background-image: url('../img/etcitem40.png');
+				background-position: 272px 212px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cq37
+			{
+				background-image: url('../img/etcitem40.png');
+				background-position: 512px 112px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cr46
+			{
+				background-image: url('../img/etcitem40.png');
+				background-position: 272px 412px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cr47
+			{
+				background-image: url('../img/etcitem40.png');
+				background-position: 272px 112px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cd05
+			{
+				background-image: url('../img/etcitem41.png');
+				background-position: 512px 512px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cd06
+			{
+				background-image: url('../img/etcitem41.png');
+				background-position: 272px 512px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cd07
+			{
+				background-image: url('../img/etcitem41.png');
+				background-position: 512px 412px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cq38
+			{
+				background-image: url('../img/etcitem41.png');
+				background-position: 272px 412px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cq39
+			{
+				background-image: url('../img/etcitem41.png');
+				background-position: 512px 312px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cq40
+			{
+				background-image: url('../img/etcitem41.png');
+				background-position: 272px 312px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cq41
+			{
+				background-image: url('../img/etcitem41.png');
+				background-position: 272px 212px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cq42
+			{
+				background-image: url('../img/etcitem41.png');
+				background-position: 512px 112px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cq43
+			{
+				background-image: url('../img/etcitem41.png');
+				background-position: 272px 112px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cr84
+			{
+				background-image: url('../img/etcitem41.png');
+				background-position: 512px 212px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_ch05
+			{
+				background-image: url('../img/etcitem42.png');
+				background-position: 512px 112px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_ch06
+			{
+				background-image: url('../img/etcitem42.png');
+				background-position: 272px 112px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cq44
+			{
+				background-image: url('../img/etcitem42.png');
+				background-position: 272px 512px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cq45
+			{
+				background-image: url('../img/etcitem42.png');
+				background-position: 272px 412px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cq46
+			{
+				background-image: url('../img/etcitem42.png');
+				background-position: 512px 412px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cq47
+			{
+				background-image: url('../img/etcitem42.png');
+				background-position: 512px 312px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cq48
+			{
+				background-image: url('../img/etcitem42.png');
+				background-position: 512px 212px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cq49
+			{
+				background-image: url('../img/etcitem42.png');
+				background-position: 272px 312px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cr48
+			{
+				background-image: url('../img/etcitem42.png');
+				background-position: 512px 512px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cr49
+			{
+				background-image: url('../img/etcitem42.png');
+				background-position: 272px 212px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cq50
+			{
+				background-image: url('../img/etcitem43.png');
+				background-position: 512px 512px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cq51
+			{
+				background-image: url('../img/etcitem43.png');
+				background-position: 272px 512px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cq52
+			{
+				background-image: url('../img/etcitem43.png');
+				background-position: 512px 412px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cq53
+			{
+				background-image: url('../img/etcitem43.png');
+				background-position: 272px 412px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cq54
+			{
+				background-image: url('../img/etcitem43.png');
+				background-position: 272px 312px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cq55
+			{
+				background-image: url('../img/etcitem43.png');
+				background-position: 512px 212px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cq56
+			{
+				background-image: url('../img/etcitem43.png');
+				background-position: 272px 212px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cq57
+			{
+				background-image: url('../img/etcitem43.png');
+				background-position: 512px 112px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cr50
+			{
+				background-image: url('../img/etcitem43.png');
+				background-position: 512px 312px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cr51
+			{
+				background-image: url('../img/etcitem43.png');
+				background-position: 272px 112px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cc76
+			{
+				background-image: url('../img/etcitem44.png');
+				background-position: 512px 412px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cq58
+			{
+				background-image: url('../img/etcitem44.png');
+				background-position: 272px 412px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cq59
+			{
+				background-image: url('../img/etcitem44.png');
+				background-position: 512px 312px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cq60
+			{
+				background-image: url('../img/etcitem44.png');
+				background-position: 272px 312px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cq61
+			{
+				background-image: url('../img/etcitem44.png');
+				background-position: 512px 212px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cq62
+			{
+				background-image: url('../img/etcitem44.png');
+				background-position: 272px 212px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cq63
+			{
+				background-image: url('../img/etcitem44.png');
+				background-position: 512px 112px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cq64
+			{
+				background-image: url('../img/etcitem44.png');
+				background-position: 272px 112px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cr52
+			{
+				background-image: url('../img/etcitem44.png');
+				background-position: 512px 512px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cr53
+			{
+				background-image: url('../img/etcitem44.png');
+				background-position: 272px 512px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cq65
+			{
+				background-image: url('../img/etcitem45.png');
+				background-position: 512px 512px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cq66
+			{
+				background-image: url('../img/etcitem45.png');
+				background-position: 272px 512px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cq67
+			{
+				background-image: url('../img/etcitem45.png');
+				background-position: 512px 412px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cq68
+			{
+				background-image: url('../img/etcitem45.png');
+				background-position: 272px 412px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cq69
+			{
+				background-image: url('../img/etcitem45.png');
+				background-position: 512px 312px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cr54
+			{
+				background-image: url('../img/etcitem45.png');
+				background-position: 272px 312px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cr55
+			{
+				background-image: url('../img/etcitem45.png');
+				background-position: 512px 212px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cr56
+			{
+				background-image: url('../img/etcitem45.png');
+				background-position: 272px 212px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cr57
+			{
+				background-image: url('../img/etcitem45.png');
+				background-position: 512px 112px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cr92
+			{
+				background-image: url('../img/etcitem45.png');
+				background-position: 272px 112px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cq70
+			{
+				background-image: url('../img/etcitem46.png');
+				background-position: 512px 512px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cq71
+			{
+				background-image: url('../img/etcitem46.png');
+				background-position: 272px 512px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cq72
+			{
+				background-image: url('../img/etcitem46.png');
+				background-position: 512px 412px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cq73
+			{
+				background-image: url('../img/etcitem46.png');
+				background-position: 272px 412px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cq74
+			{
+				background-image: url('../img/etcitem46.png');
+				background-position: 272px 312px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cq75
+			{
+				background-image: url('../img/etcitem46.png');
+				background-position: 512px 212px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cq76
+			{
+				background-image: url('../img/etcitem46.png');
+				background-position: 272px 212px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cq77
+			{
+				background-image: url('../img/etcitem46.png');
+				background-position: 272px 112px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cr58
+			{
+				background-image: url('../img/etcitem46.png');
+				background-position: 512px 312px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cr59
+			{
+				background-image: url('../img/etcitem46.png');
+				background-position: 512px 112px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cq78
+			{
+				background-image: url('../img/etcitem47.png');
+				background-position: 512px 512px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cq79
+			{
+				background-image: url('../img/etcitem47.png');
+				background-position: 272px 512px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cq80
+			{
+				background-image: url('../img/etcitem47.png');
+				background-position: 272px 412px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cq81
+			{
+				background-image: url('../img/etcitem47.png');
+				background-position: 512px 312px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cq82
+			{
+				background-image: url('../img/etcitem47.png');
+				background-position: 272px 312px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cq83
+			{
+				background-image: url('../img/etcitem47.png');
+				background-position: 272px 212px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cq84
+			{
+				background-image: url('../img/etcitem47.png');
+				background-position: 512px 112px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cq85
+			{
+				background-image: url('../img/etcitem47.png');
+				background-position: 272px 112px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cr60
+			{
+				background-image: url('../img/etcitem47.png');
+				background-position: 512px 412px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cr61
+			{
+				background-image: url('../img/etcitem47.png');
+				background-position: 512px 212px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cq86
+			{
+				background-image: url('../img/etcitem48.png');
+				background-position: 512px 412px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cq87
+			{
+				background-image: url('../img/etcitem48.png');
+				background-position: 272px 312px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cq88
+			{
+				background-image: url('../img/etcitem48.png');
+				background-position: 512px 312px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cq89
+			{
+				background-image: url('../img/etcitem48.png');
+				background-position: 272px 412px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cq90
+			{
+				background-image: url('../img/etcitem48.png');
+				background-position: 272px 212px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cq91
+			{
+				background-image: url('../img/etcitem48.png');
+				background-position: 512px 112px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cq92
+			{
+				background-image: url('../img/etcitem48.png');
+				background-position: 272px 112px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cr62
+			{
+				background-image: url('../img/etcitem48.png');
+				background-position: 512px 512px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cr63
+			{
+				background-image: url('../img/etcitem48.png');
+				background-position: 272px 512px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cr64
+			{
+				background-image: url('../img/etcitem48.png');
+				background-position: 512px 212px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cq93
+			{
+				background-image: url('../img/etcitem49.png');
+				background-position: 272px 512px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cq94
+			{
+				background-image: url('../img/etcitem49.png');
+				background-position: 512px 412px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cq95
+			{
+				background-image: url('../img/etcitem49.png');
+				background-position: 512px 312px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cq96
+			{
+				background-image: url('../img/etcitem49.png');
+				background-position: 272px 412px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cq97
+			{
+				background-image: url('../img/etcitem49.png');
+				background-position: 512px 212px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cq98
+			{
+				background-image: url('../img/etcitem49.png');
+				background-position: 272px 212px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cq99
+			{
+				background-image: url('../img/etcitem49.png');
+				background-position: 512px 112px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cr65
+			{
+				background-image: url('../img/etcitem49.png');
+				background-position: 512px 512px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cr66
+			{
+				background-image: url('../img/etcitem49.png');
+				background-position: 272px 312px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cs04
+			{
+				background-image: url('../img/etcitem49.png');
+				background-position: 272px 112px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cr67
+			{
+				background-image: url('../img/etcitem50.png');
+				background-position: 272px 512px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cr68
+			{
+				background-image: url('../img/etcitem50.png');
+				background-position: 512px 412px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cr69
+			{
+				background-image: url('../img/etcitem50.png');
+				background-position: 272px 212px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cr70
+			{
+				background-image: url('../img/etcitem50.png');
+				background-position: 272px 412px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cr71
+			{
+				background-image: url('../img/etcitem50.png');
+				background-position: 512px 312px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cr72
+			{
+				background-image: url('../img/etcitem50.png');
+				background-position: 272px 312px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cr73
+			{
+				background-image: url('../img/etcitem50.png');
+				background-position: 512px 212px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cs03
+			{
+				background-image: url('../img/etcitem50.png');
+				background-position: 512px 512px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cs05
+			{
+				background-image: url('../img/etcitem50.png');
+				background-position: 512px 112px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cs06
+			{
+				background-image: url('../img/etcitem50.png');
+				background-position: 272px 112px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cr74
+			{
+				background-image: url('../img/etcitem51.png');
+				background-position: 272px 512px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cr75
+			{
+				background-image: url('../img/etcitem51.png');
+				background-position: 512px 412px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cr76
+			{
+				background-image: url('../img/etcitem51.png');
+				background-position: 272px 412px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cr77
+			{
+				background-image: url('../img/etcitem51.png');
+				background-position: 512px 212px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cr78
+			{
+				background-image: url('../img/etcitem51.png');
+				background-position: 272px 212px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cr79
+			{
+				background-image: url('../img/etcitem51.png');
+				background-position: 512px 112px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cr85
+			{
+				background-image: url('../img/etcitem51.png');
+				background-position: 272px 112px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cs07
+			{
+				background-image: url('../img/etcitem51.png');
+				background-position: 512px 512px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cs08
+			{
+				background-image: url('../img/etcitem51.png');
+				background-position: 512px 312px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cs09
+			{
+				background-image: url('../img/etcitem51.png');
+				background-position: 272px 312px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cr86
+			{
+				background-image: url('../img/etcitem52.png');
+				background-position: 512px 512px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cr87
+			{
+				background-image: url('../img/etcitem52.png');
+				background-position: 272px 312px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cr88
+			{
+				background-image: url('../img/etcitem52.png');
+				background-position: 512px 212px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cr89
+			{
+				background-image: url('../img/etcitem52.png');
+				background-position: 272px 212px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cr93
+			{
+				background-image: url('../img/etcitem52.png');
+				background-position: 512px 112px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cr94
+			{
+				background-image: url('../img/etcitem52.png');
+				background-position: 272px 112px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cs10
+			{
+				background-image: url('../img/etcitem52.png');
+				background-position: 272px 512px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cs11
+			{
+				background-image: url('../img/etcitem52.png');
+				background-position: 512px 412px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cs12
+			{
+				background-image: url('../img/etcitem52.png');
+				background-position: 272px 412px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cs13
+			{
+				background-image: url('../img/etcitem52.png');
+				background-position: 512px 312px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cr95
+			{
+				background-image: url('../img/etcitem53.png');
+				background-position: 512px 212px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cr96
+			{
+				background-image: url('../img/etcitem53.png');
+				background-position: 272px 112px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cs14
+			{
+				background-image: url('../img/etcitem53.png');
+				background-position: 512px 512px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cs15
+			{
+				background-image: url('../img/etcitem53.png');
+				background-position: 272px 512px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cs16
+			{
+				background-image: url('../img/etcitem53.png');
+				background-position: 512px 412px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cs17
+			{
+				background-image: url('../img/etcitem53.png');
+				background-position: 272px 412px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cs18
+			{
+				background-image: url('../img/etcitem53.png');
+				background-position: 512px 312px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cs19
+			{
+				background-image: url('../img/etcitem53.png');
+				background-position: 272px 312px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cs20
+			{
+				background-image: url('../img/etcitem53.png');
+				background-position: 272px 212px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cs21
+			{
+				background-image: url('../img/etcitem53.png');
+				background-position: 512px 112px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_ca10
+			{
+				background-image: url('../img/etcitem54.png');
+				background-position: 272px 212px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_ca11
+			{
+				background-image: url('../img/etcitem54.png');
+				background-position: 512px 212px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cr97
+			{
+				background-image: url('../img/etcitem54.png');
+				background-position: 512px 512px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cr98
+			{
+				background-image: url('../img/etcitem54.png');
+				background-position: 272px 512px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cr99
+			{
+				background-image: url('../img/etcitem54.png');
+				background-position: 272px 312px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cs22
+			{
+				background-image: url('../img/etcitem54.png');
+				background-position: 512px 412px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cs23
+			{
+				background-image: url('../img/etcitem54.png');
+				background-position: 272px 412px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cs24
+			{
+				background-image: url('../img/etcitem54.png');
+				background-position: 512px 312px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cs25
+			{
+				background-image: url('../img/etcitem54.png');
+				background-position: 272px 112px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cs26
+			{
+				background-image: url('../img/etcitem54.png');
+				background-position: 512px 112px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cs27
+			{
+				background-image: url('../img/etcitem55.png');
+				background-position: 272px 512px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cs28
+			{
+				background-image: url('../img/etcitem55.png');
+				background-position: 512px 412px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cs29
+			{
+				background-image: url('../img/etcitem55.png');
+				background-position: 272px 412px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cs30
+			{
+				background-image: url('../img/etcitem55.png');
+				background-position: 272px 312px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cs31
+			{
+				background-image: url('../img/etcitem55.png');
+				background-position: 512px 212px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cs32
+			{
+				background-image: url('../img/etcitem55.png');
+				background-position: 512px 112px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_ct25
+			{
+				background-image: url('../img/etcitem55.png');
+				background-position: 512px 512px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cy28
+			{
+				background-image: url('../img/etcitem55.png');
+				background-position: 512px 312px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cy29
+			{
+				background-image: url('../img/etcitem55.png');
+				background-position: 272px 212px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cy30
+			{
+				background-image: url('../img/etcitem55.png');
+				background-position: 272px 112px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cs33
+			{
+				background-image: url('../img/etcitem56.png');
+				background-position: 272px 512px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cs34
+			{
+				background-image: url('../img/etcitem56.png');
+				background-position: 512px 412px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cs35
+			{
+				background-image: url('../img/etcitem56.png');
+				background-position: 272px 412px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cs36
+			{
+				background-image: url('../img/etcitem56.png');
+				background-position: 512px 312px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cs37
+			{
+				background-image: url('../img/etcitem56.png');
+				background-position: 272px 312px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cs38
+			{
+				background-image: url('../img/etcitem56.png');
+				background-position: 512px 212px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cs39
+			{
+				background-image: url('../img/etcitem56.png');
+				background-position: 272px 212px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cs40
+			{
+				background-image: url('../img/etcitem56.png');
+				background-position: 512px 112px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cy31
+			{
+				background-image: url('../img/etcitem56.png');
+				background-position: 512px 512px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cy33
+			{
+				background-image: url('../img/etcitem56.png');
+				background-position: 272px 112px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cs41
+			{
+				background-image: url('../img/etcitem57.png');
+				background-position: 272px 512px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cs42
+			{
+				background-image: url('../img/etcitem57.png');
+				background-position: 512px 412px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cs43
+			{
+				background-image: url('../img/etcitem57.png');
+				background-position: 272px 412px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cs44
+			{
+				background-image: url('../img/etcitem57.png');
+				background-position: 272px 312px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cs45
+			{
+				background-image: url('../img/etcitem57.png');
+				background-position: 272px 212px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cs46
+			{
+				background-image: url('../img/etcitem57.png');
+				background-position: 512px 212px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cs47
+			{
+				background-image: url('../img/etcitem57.png');
+				background-position: 272px 112px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cy32
+			{
+				background-image: url('../img/etcitem57.png');
+				background-position: 512px 512px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cy34
+			{
+				background-image: url('../img/etcitem57.png');
+				background-position: 512px 312px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cy35
+			{
+				background-image: url('../img/etcitem57.png');
+				background-position: 512px 112px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cs48
+			{
+				background-image: url('../img/etcitem58.png');
+				background-position: 512px 512px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cs49
+			{
+				background-image: url('../img/etcitem58.png');
+				background-position: 272px 512px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cs50
+			{
+				background-image: url('../img/etcitem58.png');
+				background-position: 272px 412px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cs51
+			{
+				background-image: url('../img/etcitem58.png');
+				background-position: 512px 312px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cs52
+			{
+				background-image: url('../img/etcitem58.png');
+				background-position: 272px 312px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cy36
+			{
+				background-image: url('../img/etcitem58.png');
+				background-position: 512px 412px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cy37
+			{
+				background-image: url('../img/etcitem58.png');
+				background-position: 512px 212px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cy38
+			{
+				background-image: url('../img/etcitem58.png');
+				background-position: 272px 212px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cy39
+			{
+				background-image: url('../img/etcitem58.png');
+				background-position: 512px 112px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cy96
+			{
+				background-image: url('../img/etcitem58.png');
+				background-position: 272px 112px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cs53
+			{
+				background-image: url('../img/etcitem59.png');
+				background-position: 272px 412px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cs54
+			{
+				background-image: url('../img/etcitem59.png');
+				background-position: 512px 312px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cs55
+			{
+				background-image: url('../img/etcitem59.png');
+				background-position: 272px 312px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cs56
+			{
+				background-image: url('../img/etcitem59.png');
+				background-position: 512px 112px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cs57
+			{
+				background-image: url('../img/etcitem59.png');
+				background-position: 272px 112px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cy40
+			{
+				background-image: url('../img/etcitem59.png');
+				background-position: 512px 212px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cy41
+			{
+				background-image: url('../img/etcitem59.png');
+				background-position: 272px 212px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cy97
+			{
+				background-image: url('../img/etcitem59.png');
+				background-position: 512px 512px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cy98
+			{
+				background-image: url('../img/etcitem59.png');
+				background-position: 272px 512px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cy99
+			{
+				background-image: url('../img/etcitem59.png');
+				background-position: 512px 412px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_co04
+			{
+				background-image: url('../img/etcitem60.png');
+				background-position: 512px 312px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_co05
+			{
+				background-image: url('../img/etcitem60.png');
+				background-position: 272px 312px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_co06
+			{
+				background-image: url('../img/etcitem60.png');
+				background-position: 512px 212px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_co07
+			{
+				background-image: url('../img/etcitem60.png');
+				background-position: 272px 212px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_co08
+			{
+				background-image: url('../img/etcitem60.png');
+				background-position: 512px 112px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cs58
+			{
+				background-image: url('../img/etcitem60.png');
+				background-position: 272px 512px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cs59
+			{
+				background-image: url('../img/etcitem60.png');
+				background-position: 512px 412px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cs60
+			{
+				background-image: url('../img/etcitem60.png');
+				background-position: 272px 112px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cy42
+			{
+				background-image: url('../img/etcitem60.png');
+				background-position: 512px 512px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cy43
+			{
+				background-image: url('../img/etcitem60.png');
+				background-position: 272px 412px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_item-cash_cs61
+			{
+				background-image: url('../img/etcitem61.png');
+				background-position: 512px 512px;
+				width: 239px;
+				height: 99px;
+			}
+		
