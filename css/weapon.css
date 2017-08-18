@@ -5885,6 +5885,13 @@
 				width: 99px;
 				height: 42px;
 			}
+		.warrock_weapon-mini_da83
+			{
+				background-image: url('../img/miniweapon15.png');
+				background-position: 212px 426px;
+				width: 99px;
+				height: 42px;
+			}
 		.warrock_weapon-mini_db50
 			{
 				background-image: url('../img/miniweapon15.png');
@@ -5892,10 +5899,24 @@
 				width: 99px;
 				height: 42px;
 			}
+		.warrock_weapon-mini_db51
+			{
+				background-image: url('../img/miniweapon15.png');
+				background-position: 412px 426px;
+				width: 99px;
+				height: 42px;
+			}
 		.warrock_weapon-mini_de87
 			{
 				background-image: url('../img/miniweapon15.png');
 				background-position: 512px 512px;
+				width: 99px;
+				height: 42px;
+			}
+		.warrock_weapon-mini_de88
+			{
+				background-image: url('../img/miniweapon15.png');
+				background-position: 112px 469px;
 				width: 99px;
 				height: 42px;
 			}
@@ -5920,6 +5941,13 @@
 				width: 99px;
 				height: 42px;
 			}
+		.warrock_weapon-mini_dj61
+			{
+				background-image: url('../img/miniweapon15.png');
+				background-position: 312px 426px;
+				width: 99px;
+				height: 42px;
+			}
 		.warrock_weapon-mini_gf17
 			{
 				background-image: url('../img/miniweapon15.png');
@@ -5927,10 +5955,24 @@
 				width: 99px;
 				height: 42px;
 			}
+		.warrock_weapon-mini_gf18
+			{
+				background-image: url('../img/miniweapon15.png');
+				background-position: 212px 469px;
+				width: 99px;
+				height: 42px;
+			}
 		.warrock_weapon-mini_gg05
 			{
 				background-image: url('../img/miniweapon15.png');
 				background-position: 212px 512px;
+				width: 99px;
+				height: 42px;
+			}
+		.warrock_weapon-mini_gg06
+			{
+				background-image: url('../img/miniweapon15.png');
+				background-position: 512px 426px;
 				width: 99px;
 				height: 42px;
 			}
@@ -11338,6 +11380,20 @@
 				width: 239px;
 				height: 99px;
 			}
+		.warrock_weapon-db51
+			{
+				background-image: url('../img/weapon79.png');
+				background-position: 272px 112px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_weapon-de88
+			{
+				background-image: url('../img/weapon79.png');
+				background-position: 272px 212px;
+				width: 239px;
+				height: 99px;
+			}
 		.warrock_weapon-dh14
 			{
 				background-image: url('../img/weapon79.png');
@@ -11359,10 +11415,38 @@
 				width: 239px;
 				height: 99px;
 			}
+		.warrock_weapon-gf18
+			{
+				background-image: url('../img/weapon79.png');
+				background-position: 512px 212px;
+				width: 239px;
+				height: 99px;
+			}
 		.warrock_weapon-gg05
 			{
 				background-image: url('../img/weapon79.png');
 				background-position: 272px 512px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_weapon-gg06
+			{
+				background-image: url('../img/weapon79.png');
+				background-position: 512px 112px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_weapon-da83
+			{
+				background-image: url('../img/weapon80.png');
+				background-position: 272px 512px;
+				width: 239px;
+				height: 99px;
+			}
+		.warrock_weapon-dj61
+			{
+				background-image: url('../img/weapon80.png');
+				background-position: 512px 512px;
 				width: 239px;
 				height: 99px;
 			}

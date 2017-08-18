@@ -915,6 +915,41 @@
 				width: 169px;
 				height: 96px;
 			}
+		.warrock_costume-ba4a
+			{
+				background-image: url('../img/custume_ch05.png');
+				background-position: 512px 512px;
+				width: 169px;
+				height: 96px;
+			}
+		.warrock_costume-ba4b
+			{
+				background-image: url('../img/custume_ch05.png');
+				background-position: 170px 512px;
+				width: 169px;
+				height: 96px;
+			}
+		.warrock_costume-ba4c
+			{
+				background-image: url('../img/custume_ch05.png');
+				background-position: 341px 414px;
+				width: 169px;
+				height: 96px;
+			}
+		.warrock_costume-ba4d
+			{
+				background-image: url('../img/custume_ch05.png');
+				background-position: 341px 512px;
+				width: 169px;
+				height: 96px;
+			}
+		.warrock_costume-ba4e
+			{
+				background-image: url('../img/custume_ch05.png');
+				background-position: 512px 414px;
+				width: 169px;
+				height: 96px;
+			}
 		.warrock_costume-bb01
 			{
 				background-image: url('../img/custumeitem01.png');
@@ -3225,10 +3260,31 @@
 				width: 169px;
 				height: 96px;
 			}
+		.warrock_costume-bb18
+			{
+				background-image: url('../img/custumeitem23.png');
+				background-position: 170px 218px;
+				width: 169px;
+				height: 96px;
+			}
+		.warrock_costume-bb19
+			{
+				background-image: url('../img/custumeitem23.png');
+				background-position: 341px 120px;
+				width: 169px;
+				height: 96px;
+			}
 		.warrock_costume-bf1e
 			{
 				background-image: url('../img/custumeitem23.png');
 				background-position: 512px 414px;
+				width: 169px;
+				height: 96px;
+			}
+		.warrock_costume-bf2f
+			{
+				background-image: url('../img/custumeitem23.png');
+				background-position: 512px 120px;
 				width: 169px;
 				height: 96px;
 			}
@@ -3243,6 +3299,20 @@
 			{
 				background-image: url('../img/custumeitem23.png');
 				background-position: 341px 512px;
+				width: 169px;
+				height: 96px;
+			}
+		.warrock_costume-br03
+			{
+				background-image: url('../img/custumeitem23.png');
+				background-position: 512px 218px;
+				width: 169px;
+				height: 96px;
+			}
+		.warrock_costume-br04
+			{
+				background-image: url('../img/custumeitem23.png');
+				background-position: 170px 120px;
 				width: 169px;
 				height: 96px;
 			}
@@ -3267,6 +3337,20 @@
 				width: 169px;
 				height: 96px;
 			}
+		.warrock_costume-bx18
+			{
+				background-image: url('../img/custumeitem23.png');
+				background-position: 170px 316px;
+				width: 169px;
+				height: 96px;
+			}
+		.warrock_costume-bx19
+			{
+				background-image: url('../img/custumeitem23.png');
+				background-position: 341px 218px;
+				width: 169px;
+				height: 96px;
+			}
 		.warrock_costume-by05
 			{
 				background-image: url('../img/custumeitem23.png');
@@ -3278,6 +3362,27 @@
 			{
 				background-image: url('../img/custumeitem23.png');
 				background-position: 512px 316px;
+				width: 169px;
+				height: 96px;
+			}
+		.warrock_costume-bb17
+			{
+				background-image: url('../img/custumeitem24.png');
+				background-position: 170px 512px;
+				width: 169px;
+				height: 96px;
+			}
+		.warrock_costume-bf1f
+			{
+				background-image: url('../img/custumeitem24.png');
+				background-position: 512px 512px;
+				width: 169px;
+				height: 96px;
+			}
+		.warrock_costume-bf2e
+			{
+				background-image: url('../img/custumeitem24.png');
+				background-position: 341px 512px;
 				width: 169px;
 				height: 96px;
 			}
